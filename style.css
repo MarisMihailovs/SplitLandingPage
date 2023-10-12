@@ -22,6 +22,7 @@ body {
 
 h1 {
     font-size: 4rem;
+    text-transform: uppercase;
     color: black;
     margin: auto;
     text-align: center;
@@ -31,6 +32,7 @@ h1 {
 .split.left h1,
 .split.right h1 {
     font-size: 4rem;
+    text-transform: none;
     color: white;
     position: absolute;
     left: 50%;
